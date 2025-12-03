@@ -3,3 +3,6 @@ pypdf2
 pdfplumber
 python-dotenv
 numpy
+sentence-transformers
+pandas
+scikit-learn
